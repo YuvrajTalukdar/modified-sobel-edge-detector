@@ -8,3 +8,4 @@ To execute the program type
 ./a.out -src=boat.jpg
 
 Replace boat.jpg with your image.
+The results will be saved in the same directory.
