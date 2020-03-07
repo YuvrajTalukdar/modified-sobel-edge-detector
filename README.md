@@ -9,3 +9,10 @@ To execute the program type
 
 Replace boat.jpg with your image.
 The results will be saved in the same directory.
+
+![](boat.jpg)
+Original image
+![](sobel_result.png)
+Sobel result
+![](modified_sobel_result.png)
+Modified sobel result
